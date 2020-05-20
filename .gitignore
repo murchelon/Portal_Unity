@@ -1,4 +1,5 @@
 
-scr/Logs/
-scr/obj/
-scr/Library/
+src/Logs/
+src/obj/
+src/Library/
+
