@@ -1,24 +1,15 @@
 # Portal_Unity
-==============
 
 Test and example of a portal in Unity qith rendered texture, custom shader and teleportation. Based on Brackey's Portal
 
-Demo Video:
-===========
+*Demo Video:*
 
-Playable demo: 
-==============
+*Playable demo:*
 
-
-Brackey's video:
-================
-
+*Brackey's video on portals:*
 https://www.youtube.com/watch?v=cuQao3hEKfs&t=698s
 
-
-Other GREAT sources:
-====================
-
+*Other GREAT sources:*
 http://tomhulton.blogspot.com/2015/08/portal-rendering-with-offscreen-render.html
 https://www.reddit.com/r/Unity3D/comments/el11vr/it_only_took_a_week_and_a_half_but_i_finally_got/
 https://www.youtube.com/watch?v=ivyseNMVt-4&feature=youtu.be&t=3642
