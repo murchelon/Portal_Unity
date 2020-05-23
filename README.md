@@ -4,7 +4,7 @@ Test and example of a portal in Unity qith rendered texture, custom shader and t
 
 
 *Playable demo:*
-https://murchelon.github.io/Portal_Unity/src/Build/index.html
+https://murchelon.github.io/Portal_Unity/Portal_Unity/Build/index.html
 
 
 *Brackey's video on portals:*
